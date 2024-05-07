@@ -7,5 +7,9 @@ public class Part1 {
 		System.out.println("Message2 Part1");
 		System.out.println("Message3 Part1");
 	}
-
+	
+	public void method1()
+	{
+		System.out.println("It is develop branch");
+	}
 }
