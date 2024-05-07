@@ -16,4 +16,8 @@ public class Part1 {
 	{
 		System.out.println("It is develop branch");
 	}
+	public void method3()
+	{
+		System.out.println("It is master branch");
+	}
 }
