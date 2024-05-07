@@ -20,4 +20,8 @@ public class Part1 {
 	{
 		System.out.println("It is master branch");
 	}
+	public void method5()
+	{
+		System.out.println("This method add by XXX User");
+	}
 }
